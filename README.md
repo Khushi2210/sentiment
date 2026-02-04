@@ -12,10 +12,12 @@ The complete analysis is implemented in a single Jupyter Notebook, supported by 
 
 ```
 ├── analysis.ipynb              # Main notebook with data preparation, analysis & insights
+├── app.py                      # Streamlit dashboard application
 ├── processed_data/             # Cleaned and feature-engineered datasets (generated)
 ├── outputs/                    # Charts, plots, and tables generated from analysis
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
+
 ```
 
 - **outputs/** contains all saved images and visualizations used to support insights
