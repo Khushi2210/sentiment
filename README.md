@@ -163,6 +163,23 @@ jupyter notebook
 Open `analysis.ipynb` and run the cells sequentially from top to bottom.
 
 ---
+##Running the Streamlit Dashboard
+
+After running the notebook (to generate outputs and processed data), launch the dashboard using:
+
+streamlit run app.py
+
+Streamlit Dashboard Features
+
+📊 Interactive viewing of all analysis charts from outputs/
+
+📁 Tabular exploration of processed datasets from processed_data/
+
+🔍 Easy navigation between sentiment analysis, performance comparison, and trader clustering
+
+🧩 No recomputation — dashboard uses pre-generated results for fast loading
+
+The dashboard allows reviewers to explore insights without opening the notebook, improving clarity and reproducibility.
 
 ## Project Workflow
 
