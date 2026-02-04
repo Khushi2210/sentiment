@@ -124,8 +124,8 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/Khushi2210/sentiment>
+cd <sentiment>
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
