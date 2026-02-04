@@ -1,0 +1,4 @@
+sentiment,Mean Daily PnL,Median Daily PnL,PnL Std Dev,Avg Win Rate,Avg Daily Trades,Avg Trade Size,Avg Drawdown,Avg Long/Short Ratio
+Fear,17450.41,0.0,67118.2,0.29,95.4,11415.27,2380.54,0.0
+Greed,4792.16,0.0,36169.3,0.2,45.03,9466.64,2016.15,0.0
+Neutral,10132.88,68.06,28838.85,0.31,79.38,13255.74,601.55,0.0
